@@ -33,9 +33,7 @@ First thing is first, I want to show you that everything we will do in the IDE, 
 
 Let's bring that code over to our `index.js` file on the IDE. Make sure you are in the `index.js` file in the `js-from-dom-to-node` folder. Once in there go ahead and paste the following code in there:
 
-```javascript
-console.log("Hello, World!")
-```
+```javascript```
 
 Now when you hit Enter, nothing super interesting will happen. All that occurs is the cursor moves to a new line. That's because you are in the text editor. This is pretty much the same as using Word. To get this to actually return something like we did in the Console in the browser we need to _execute_ the `index.js` file. It sounds super official, but all we are going to do is tell the IDE "I'm ready, run this code and show me the result".
 
